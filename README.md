@@ -1,4 +1,4 @@
-# rpgsaga
+# RPG Saga
 
 ## Перед запуском
 
